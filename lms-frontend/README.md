@@ -22,3 +22,12 @@
 ```
   npm run dev
 ```
+5. Tailwind setup
+
+```
+  1. Tailwind website
+  2. npm install -D tailwindcss
+  3. npx tailwindcss init :- creates config file
+  4. fill  the content of config
+  5. in react index.css will be input.css
+```
